@@ -1,8 +1,5 @@
-# kushal-unjiya.md
 <h1 align="center">Hey 👋, I'm Kushal Unjiya.</h1>
 <h3 align="center">I'm currently pursuing my B.Tech in Information and Communication Technology Degree from Adani University. Curiously learning tech.......</h3>
-
- <img src="https://komarev.com/ghpvc/?username=kushal-unjiya&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-unjiya" /> </p>
 
 - 🌱 I’m currently learning **C++, MERN Stack, Data Structures and Algorithm.**
 
